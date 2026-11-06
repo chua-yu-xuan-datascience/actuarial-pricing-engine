@@ -1,0 +1,12 @@
+,Train (70%),Test  (30%),Train vs Test gap
+Policies,474609.0,203404.0,-271205.0
+Claim rate,0.0502,0.0502,0.0
+Mean actual PP (€),408.24,325.01,-83.23
+Mean predicted PP (€),116.37,116.37,0.0
+Pred/Actual PP ratio,0.2851,0.3581,0.073
+Mean indicated premium (€),225.1,221.07,-4.03
+Portfolio loss ratio,0.4119,0.3537,-0.0582
+RMSE (€),42852.25,15323.76,-27528.49
+MAE (€),511.83,428.63,-83.2
+Gini,0.8881,0.8664,-0.0217
+% at minimum premium,32.07,32.08,0.01
